@@ -16,3 +16,5 @@ var maxSequence = function(arr){
       return globalSum;
     }
 }
+
+// use kadanes algorithm
