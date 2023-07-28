@@ -11,5 +11,5 @@
   [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
 
 - Maximum subarray sum
- `my favorite solution is kadanes algorithm`
+ `my favorite solution is kadanes algorithm` [link](https://dev.to/alisabaj/kadane-s-algorithm-the-maximum-subarray-problem-c31)
   [link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript)
