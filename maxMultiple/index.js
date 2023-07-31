@@ -14,4 +14,6 @@ function maxMultiple(divisor, bound){
       }
     }
     return Number(arr.sort((a,b)=> a-b).slice(-1).join(''))
+
+    // or return Math.max(...arr)
   }
