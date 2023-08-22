@@ -1,4 +1,4 @@
-function replaceFirst(values: number[]): number[] {
+function replaceFirst(values) {
     // your code here
     if(values.length <= 1) return values;
     let first = values.shift();
