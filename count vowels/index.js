@@ -8,3 +8,6 @@ function getCount(str) {
     }
     return count
   }
+
+  // BEST SOLUTION
+  return (str.match(/[aeiou]/gi) || []).length
